@@ -6,6 +6,10 @@ public class UserInfo {
     public String update_time;
     public String phone;
     public String pwd;
+    public int age;
+    public long height;
+    public boolean married;
+    public float weight;
 
     public UserInfo() {
         rowid = 0L;
